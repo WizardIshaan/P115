@@ -1,0 +1,19 @@
+#heading
+{
+  width: 370px;
+  height: 70px;
+  font-size: 50px;
+  color: black;
+}
+
+button
+{
+   height: 80px;
+   width:90px;
+}
+
+.WebCamera
+{
+  height:500px;
+  width:500px;
+}
